@@ -1,5 +1,3 @@
-# Real Estate React Native Mobile App
-
 React Native iOS implementation of the HomeKey App
 
 This version of the application is built with React Native
@@ -11,12 +9,6 @@ This is an experimental project, which means that:
 1. Code contributions are welcome
 
 ![iOS Screenshot](/README_files/SS.png?raw=true) 
-
-## Watch Video Recording
-
-Watch the recording of the app :
-
-[![iOS Screenshot](README_files/Video.png?raw=true)](https://www.youtube.com/watch?v=P3jIFI0ye3E)
 
 ## Installation Instructions
 
