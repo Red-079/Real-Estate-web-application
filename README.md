@@ -23,6 +23,7 @@ This app is designed for *cross-platform* support (iOS & Android) and features *
 - [Contributing](#-contributing)
 - [License](#-license)
 - [Future Enhancements](#-future-enhancements)
+- [Acknowledgement](https://github.com/iZaL/real-estate-app-ui).(source)
 
 ---
 
@@ -77,5 +78,7 @@ real-estate-app-ui
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/)
 - [React Native CLI](https://reactnative.dev/docs/environment-setup)
 - Xcode (for iOS) / Android Studio (for Android)
+
+  
   
 MIT License
